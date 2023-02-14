@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $input_text | tr 'a-zA-Z' 'n-za-mN-ZA-M'
